@@ -1,2 +1,3 @@
-# Localiztion project
- An example project to demonstrate localiztion 
+# localization
+
+A new Flutter project.
